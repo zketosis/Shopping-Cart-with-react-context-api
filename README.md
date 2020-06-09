@@ -1,5 +1,8 @@
 
 ## Shopping Cart with react context api  
+
+[![Join the chat at https://gitter.im/global_smarts/ReactFaster](https://badges.gitter.im/global_smarts/ReactFaster.svg)](https://gitter.im/global_smarts/ReactFaster?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 In this project i created a global state management with react context and hooks.
 [live demo->](https://contextcart.netlify.com/)
 

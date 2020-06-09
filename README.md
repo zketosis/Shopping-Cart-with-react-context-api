@@ -4,7 +4,7 @@ In this project i created a global state management with react context and hooks
 
 
 [explanation->](https://hoseinh.com/react-context-vs-redux-hooks/)
-Dude! :). I love this example.
+Dude! :). I love this example.  This is forked from Mohamad Hosein Hamzenejad.
 
 Let's keep it going. So I am going to implement:
 

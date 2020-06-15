@@ -7,7 +7,7 @@ In this project i created a global state management with react context and hooks
 [live demo->](https://contextcart.netlify.com/)
 
 [explanation->](https://hoseinh.com/react-context-vs-redux-hooks/)
-Dude! :). I love this example.  This is forked from Mohamad Hosein Hamzenejad.
+Dude! :). I love this example. This is forked from Mohamad Hosein Hamzenejad. simplicity is the most important.
 
 Let's keep it going. So I am going to implement:
 
